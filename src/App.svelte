@@ -1,5 +1,5 @@
 <script lang="ts">
-  import svelteLogo from './assets/limba-licht-op-2023.jpg'
+  import svelteLogo from './assets/limba-licht-op-2023-loading.gif'
 </script>
 
 <main>

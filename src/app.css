@@ -44,4 +44,9 @@ h1 {
   text-align: center;
 }
 
+.full-screen-image {
+  width: 100vw;
+  height: 100vh;
+}
+
 
